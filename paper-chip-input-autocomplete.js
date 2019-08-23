@@ -54,7 +54,7 @@ class PaperChipInputAutocomplete extends PolymerElement {
 			}
 
 			paper-item {
-				height: 0px; /* To resolve `min-height` bug on IE 11 */
+				height: 0px; 
 
 				--paper-item-selected-weight: normal;
 				--paper-item-min-height: var(--paper-chip-autocomplete-item-height, 48px);
