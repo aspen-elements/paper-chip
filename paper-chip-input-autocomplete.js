@@ -462,5 +462,3 @@ class PaperChipInputAutocomplete extends PolymerElement {
 
 }
 window.customElements.define(PaperChipInputAutocomplete.is, PaperChipInputAutocomplete);
-</script>
-</dom-module>
