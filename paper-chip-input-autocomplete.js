@@ -112,6 +112,8 @@ class PaperChipInputAutocomplete extends PolymerElement {
 
         paper-chip {
           @apply --paper-chip-close-label;
+          display: inline-block;
+          width: max-content !important;
         }
       </style>
 
